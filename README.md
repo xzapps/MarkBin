@@ -23,12 +23,9 @@ Left-side table of contents navigation bar
 
 Screenshot：
 
-<img width="1002" height="632" alt="image" src="https://github.com/user-attachments/assets/b6b177a8-b7ac-417b-8e35-b23ad5223255" />
+<img width="1002" height="632" alt="image" src="https://github.com/user-attachments/assets/d3cbbf00-eb5f-43ad-a5c7-407d78d5981a" />
+<img width="1002" height="632" alt="image" src="https://github.com/user-attachments/assets/9fe4655e-5a5f-40be-a2c2-1eb1e368bcbc" />
+<img width="902" height="695" alt="image" src="https://github.com/user-attachments/assets/13f4f180-fc83-4e16-bac2-0433ec664db0" />
 
-<img width="1002" height="632" alt="image" src="https://github.com/user-attachments/assets/b035aee3-45d6-4a73-b82b-ae226dec8e7c" />
-
-<img width="902" height="716" alt="image" src="https://github.com/user-attachments/assets/9c583982-d91e-4ad8-a03f-8ecc13ab6909" />
-
-<img width="902" height="716" alt="image" src="https://github.com/user-attachments/assets/04d06e64-eee6-46ae-92c5-c92446f9c469" />
 
 
